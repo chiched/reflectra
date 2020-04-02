@@ -1,4 +1,3 @@
-_This was created during our time as a student at [Code Chrysalis](https://www.codechrysalis.io/)._
 
 _This was the Team API Project, where a deployed MVP web application using APIs was to be built and presented in 4 days_
 
